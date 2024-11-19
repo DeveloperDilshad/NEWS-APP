@@ -1,0 +1,9 @@
+"/Users/dilshadp/NewsApp/NewsApp/ViewController.swift":
+  dependencies: "/Users/dilshadp/NewsApp/build/NewsApp.build/Release-iphonesimulator/NewsApp.build/Objects-normal/arm64/NewsApp-master.d"
+  abi-baseline-json: "/Users/dilshadp/NewsApp/build/NewsApp.build/Release-iphonesimulator/NewsApp.build/Objects-normal/arm64/NewsApp.abi.json"
+  swiftmodule: "/Users/dilshadp/NewsApp/build/NewsApp.build/Release-iphonesimulator/NewsApp.build/Objects-normal/arm64/NewsApp.swiftmodule"
+  swiftsourceinfo: "/Users/dilshadp/NewsApp/build/NewsApp.build/Release-iphonesimulator/NewsApp.build/Objects-normal/arm64/NewsApp.swiftsourceinfo"
+  objc-header: "/Users/dilshadp/NewsApp/build/NewsApp.build/Release-iphonesimulator/NewsApp.build/Objects-normal/arm64/NewsApp-Swift.h"
+  diagnostics: "/Users/dilshadp/NewsApp/build/NewsApp.build/Release-iphonesimulator/NewsApp.build/Objects-normal/arm64/NewsApp-master.dia"
+  swiftdoc: "/Users/dilshadp/NewsApp/build/NewsApp.build/Release-iphonesimulator/NewsApp.build/Objects-normal/arm64/NewsApp.swiftdoc"
+  const-values: "/Users/dilshadp/NewsApp/build/NewsApp.build/Release-iphonesimulator/NewsApp.build/Objects-normal/arm64/NewsApp-master.swiftconstvalues"

@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.0.2 (swiftlang-6.0.2.1.2 clang-1600.0.26.4)"
+options: "6d9e0887d7ecd274b1583bdec2038e2909fd59697db852b489412daeb23c9641"
+build_start_time: [1731994496, 921137000]
+build_end_time: [1731994500, 448496000]
+inputs:
+  "/Users/dilshadp/NewsApp/NewsApp/APICaller.swift": !dirty [1731994494, 285980590]
+  "/Users/dilshadp/NewsApp/NewsApp/AppDelegate.swift": !dirty [1731992753, 617095764]
+  "/Users/dilshadp/NewsApp/NewsApp/SceneDelegate.swift": !dirty [1731992753, 619177611]
+  "/Users/dilshadp/NewsApp/NewsApp/ViewController.swift": !dirty [1731992867, 58100979]
+  "/Users/dilshadp/NewsApp/build/NewsApp.build/Release-iphonesimulator/NewsApp.build/DerivedSources/GeneratedAssetSymbols.swift": !dirty [1731994496, 894835002]
