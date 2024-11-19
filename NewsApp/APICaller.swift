@@ -19,7 +19,7 @@ final class APICaller {
         
     }
     
-    public func getTopStories(completion: @escaping(Result<[String],Error>)->Void){
+    public func getTopStories(completion: @escaping(Result<[Article],Error>)->Void){
         guard let url = Constants.topHeadLinesURL else{
             return
         }
@@ -31,6 +31,7 @@ final class APICaller {
                 
                 do{
                     let result = try JSONDecoder().decode(APIResponse.self, from: data)
+                    completion(.success(result.articles))
                     print("Articles:\(result.articles.count)")
                     
                 }catch{
